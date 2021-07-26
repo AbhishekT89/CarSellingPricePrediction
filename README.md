@@ -13,7 +13,7 @@
  5. Numpy
  6. HTML
  7. Seaborn
- 8. Matplotlib
+ 8. Matplotlib<br>
  9.RandomForestRegressor
  
 This project is deployed with the help of heruko using flask
